@@ -7,7 +7,7 @@
 - [Env Structure](#env)
 - [Contribution Guide](#How_to_Contribute?)
 
-# Crime-alert-app
+# Noticrime-app
 
 - Main Goal
   - Whenever someone is in panic condition he/she can immediately ask for help to near by police-station and also contacting family members by only one tap in app and with more additional [features](#features)
