@@ -1,6 +1,6 @@
 # Content
 
-- [Details](#Crime-alert-app)
+- [Details](#Noticrime-app)
 - [Tech Stack](#Technology-Stack)
 - [Features](#features)
 - [How To Run App and API](#How_To_Run)
